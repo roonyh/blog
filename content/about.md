@@ -5,6 +5,6 @@ title = "about"
 
 +++
 
-## A coder
+## A coder a tester
 
 He is a god damn coder
