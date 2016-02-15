@@ -5,7 +5,7 @@ title = "about"
 
 +++
 
-## A coder
+## A tester
 
 This is a test for hugopages
 its here hugopages.io  yeah
