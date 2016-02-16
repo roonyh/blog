@@ -8,5 +8,5 @@ title = "about"
 ## A tester a coder
 
 This is a test for hugopages
-wow hugopages.io  yeah
+wow 
 vv
