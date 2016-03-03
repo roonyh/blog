@@ -7,4 +7,8 @@ title = "first"
 
 ## A first
 
-This is the first of none
+Well this is like a, well a post that is the first. That is to say that the posts that follow will come after this. Its kind of obvious that this is already here. And others that are yet to come are not. So its pretty much given that they will come after this.
+
+aa
+
+Which makes this the first.
