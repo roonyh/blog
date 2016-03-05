@@ -7,4 +7,4 @@ title = "about"
 
 ## A coder
 
-He's a coder
+a coder
